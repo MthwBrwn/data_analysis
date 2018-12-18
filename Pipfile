@@ -9,6 +9,7 @@ verify_ssl = true
 numpy = "*"
 jupyter = "*"
 panda = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.6"

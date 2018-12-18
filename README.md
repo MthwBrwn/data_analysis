@@ -1,21 +1,23 @@
-# math_series
+# Data Analysis
 
 **Author**: Matthew Brown
 **Version**: 1.0.0
 
 ## Overview
-This application sets up a sequence that gives a Fibonacci number for a input number.
+This application uses the jupyter notebook to manipulate data from kaggle
 
 ## Getting Started
-To get started you will need to install pipenv, bring up an active environment with "pipenv shell" and then call this file
+To get started you will need to install pipenv, bring up an active environment with "pipenv shell"
+- Jupyter needs to be installed
+- Numpy needs to be installed
+- Pandas needs to be installed
 
 ## Architecture
 This application is written in Python3.6
+Thi uses Jupyter to manipulate the data
 
 
 
 ## Change Log
 
-10:13 finished with test conditions for fibonacci. starting with lucas feature
-10:39 Lucas feature tests complete and function set up
-11:20 added testing conditions for optional input and had conditions pass
+
